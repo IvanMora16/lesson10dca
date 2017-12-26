@@ -1,6 +1,6 @@
 #include "calculadora.h"
 
-//Arreglado bug de números enteros, ahora funciona también con decimales
+//reglado bug de números enteros, ahora funciona también con decimales
 
 int Calculadora::menu(){
   int opcion = 0;
