@@ -29,7 +29,7 @@ float Calculadora::resta(float num1, float num2){
 }
 
 float Calculadora::division(float num1, float num2){
-  return num1 % num2;
+  return num1 / num2;
 }
 
 float Calculadora::multiplicacion(float num1, float num2){
